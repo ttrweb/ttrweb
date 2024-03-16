@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there, I'm Tetsuro :)
 
-<!--
-**ttrweb/ttrweb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Bio
+- :telescope: I'm currently working on development using WebRTC
+- :seedling: I'm currently learning Go, TypeScript, React, Next.js, Docker, Kubernetes and AWS
+- :zap: Fun fact: Playing video games all day
+- :speech_balloon: Ask me about anything!
 
-Here are some ideas to get you started:
+#### daily.dev
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://app.daily.dev/ttrweb"><img src="https://api.daily.dev/devcards/v2/sgecMa5Wf6VEoVNnuS0Qn.png?type=default&r=dir" width="356" alt="Tetsuro's Dev Card"/></a>
+
+#### Now Playing
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=312z2aucuexr6j5mjcehdt2xmbni&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
