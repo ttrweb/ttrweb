@@ -6,6 +6,11 @@
 - :zap: Fun fact: Playing video games all day
 - :speech_balloon: Ask me about anything!
 
+#### Metrics
+
+![Metrics](/github-metrics.svg)
+
+
 #### daily.dev
 
 <a href="https://app.daily.dev/ttrweb"><img src="https://api.daily.dev/devcards/v2/sgecMa5Wf6VEoVNnuS0Qn.png?type=default&r=dir" width="356" alt="Tetsuro's Dev Card"/></a>
