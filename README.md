@@ -2,7 +2,7 @@
 
 #### Bio
 - :telescope: I'm currently working on development using WebRTC
-- :seedling: I'm currently learning Go, TypeScript, React, Next.js, Docker, Kubernetes and AWS
+- :seedling: I'm currently learning Go, Ruby, Docker, Kubernetes, Terraform and AWS
 - :zap: Fun fact: Playing video games all day
 - :speech_balloon: Ask me about anything!
 
